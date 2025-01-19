@@ -208,6 +208,10 @@
   "Dannark.AndroidLauncher": {
     "repository": "https://github.com/Dannark/Android-Launcher-for-VSCode"
   },
+  "starfederation.datastar-vscode": {
+    "repository": "https://github.com/starfederation/datastar",
+    "location": "tools/vscode-extension"
+  },
   "DavidAnson.vscode-markdownlint": {
     "repository": "https://github.com/DavidAnson/vscode-markdownlint",
     "prepublish": "npm run compile"
